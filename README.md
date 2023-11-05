@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enndylove&label=Profile%20views&color=0e75b6&style=flat" alt="enndylove" /> </p>
 
  
-- 🔭 I’m currently working on [React Mobile App - CryptoNFT] (Private Repository)
+- 🔭 I’m currently working on [React Mobile App - CryptoNFT](https://github.com/enndylove/ReactMobileApp_CrypterNFT)
 
 - 🌱 I’m currently learning **framework**
 
