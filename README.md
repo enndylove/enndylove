@@ -25,6 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enndylove&show_icons=true&locale=en&layout=compact" alt="enndylove" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enndylove&show_icons=true&locale=en" alt="enndylove" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=enndylove&show_icons=true&locale=enline_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enndylove&" alt="enndylove" /></p>
