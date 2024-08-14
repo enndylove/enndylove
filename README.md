@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)]()
 
 <h1 align="center" style="color: #fff">Hi 👋, I'm enndy</h1>
-<h3 align="center" style="color: #fff">A passionate frontend developer from Ukraine</h3>
+<h3 align="center" style="color: #fff">A passionate fullstack developer from Ukraine</h3>
 <img align="right" alt="Lofi" width="300" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enndylove&label=Profile%20views&color=0e75b6&style=flat" alt="enndylove" /> </p>
