@@ -1,7 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
 
 <h1 align="left" style="color: #fff">enndy</h1>
-<h3 align="left" style="color: #fff">More than 5 years of experience in development</h3>
+<h3 align="left" style="color: #fff">🌀 I have more than 5 years of experience in development</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriy-khomitskyi/)](https://www.linkedin.com/in/andriy-khomitskyi/)
 
 ## ⚡ Technologies
 
@@ -29,4 +31,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=enndylove&count_private=true&show_icons=true&include_all_commits=true)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="enndylove Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=enndylove&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=FFFFFF" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="enndylove Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=enndylove&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
