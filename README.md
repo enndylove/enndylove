@@ -31,5 +31,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-  <a href="https://github.com/enndylove"><img alt="enndylove Github Stats" src="https://github-readme-stats.vercel.app/api?username=enndylove&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
-  <a href="https://github.com/enndylove"><img alt="enndylove" src="https://github-readme-streak-stats.herokuapp.com/?user=enndylove&theme=midnight-purple&hide_border=true" height="192px"/></a> 
+  <a href="https://github.com/enndylove"><img alt="enndylove Github Stats" src="https://github-readme-stats.vercel.app/api?username=enndylove&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="167px"/></a>
+  <a href="https://github.com/enndylove"><img alt="enndylove" src="https://github-readme-streak-stats.herokuapp.com/?user=enndylove&theme=midnight-purple&hide_border=true" height="167px"/></a> 
