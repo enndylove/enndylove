@@ -1,20 +1,20 @@
 {
   // Visuals
-  "workbench.colorTheme": "Darcula",
+  "workbench.colorTheme": "Arctis Dark+",
   "workbench.editor.tabCloseButton": "left",
   "workbench.fontAliasing": "antialiased",
-  "workbench.iconTheme": "vscode-jetbrains-icon-theme",
+  "workbench.iconTheme": "symbols",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Darcula",
+  "workbench.preferredDarkColorTheme": "Arctis Dark+",
   "workbench.preferredLightColorTheme": "Darcula",
-  "workbench.productIconTheme": "icons-carbon",
+  "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 10,
   "editor.fontFamily": "JetBrains Mono NL",
   "editor.fontWeight": "200",
-  "editor.fontSize": 18,
+  "editor.fontSize": 15,
   "editor.glyphMargin": false,
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
   // Editor
@@ -32,9 +32,9 @@
   "editor.stickyScroll.enabled": true,
   "editor.hover.sticky": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": false,
-    "source.fixAll.eslint": true, // this allows ESLint to auto fix on save
-    "source.organizeImports": false
+    "source.fixAll": "always",
+    "source.fixAll.eslint": "always", // this allows ESLint to auto fix on save
+    "source.organizeImports": "never"
   },
   "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
   "explorer.confirmDelete": false,
@@ -261,4 +261,5 @@
     "vite.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .envrc, .htmlnanorc*, .lighthouserc.*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, contentlayer.config.*, cssnano.config.*, cypress.*, env.d.ts, formkit.config.*, formulate.config.*, histoire.config.*, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, lighthouserc.*, playwright.config.*, postcss.config.*, puppeteer.config.*, rspack.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, uno.config.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*",
     "vue.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .envrc, .htmlnanorc*, .lighthouserc.*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, contentlayer.config.*, cssnano.config.*, cypress.*, env.d.ts, formkit.config.*, formulate.config.*, histoire.config.*, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, lighthouserc.*, playwright.config.*, postcss.config.*, puppeteer.config.*, rspack.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, uno.config.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*"
   },
+  "workbench.editor.tabActionLocation": "left",
 }
